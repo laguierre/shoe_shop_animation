@@ -4,7 +4,7 @@ A simple short demo of a Show Sport Shop Flutter application, Transform widget. 
 - PageView.builder.
 - Provider for conserve the state of the buttons and filter by categories.
 - Transform and page controller.
-- Palette Generator for take the dominant color for the background and text and logo color.
+- Palette Generator for take the dominant color for the background and text and logo color. This process take some time, so a CircularProgressBar appears before.
 
 ##Graphical resource
 - FlatIcon [link](www.flaticon.com)
